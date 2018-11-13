@@ -1,2 +1,2 @@
 # focus
-It's just a website made for fun
+Just a website made for fun
